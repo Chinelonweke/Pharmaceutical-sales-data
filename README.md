@@ -33,6 +33,13 @@
 ## YOY sales for each month screenshot 
 ![pharm data yoy sales for each month screenshot https://github.com/Chinelonweke/Pharmaceutical-sales-data/assets/162215623/0379b49d-8db2-497d-bb0c-df01acc766f0
 
+
+## Tools used
+- Excel
+- power bi
+
+
+
 ## Cummulative total sales over time Screenshot
 ![pharm data cummulative total sales over time Screenshot]https://github.com/Chinelonweke/Pharmaceutical-sales-data/assets/162215623/7d9e73c3-cfcf-4a07-a519-1cd95a16b3b0
 
